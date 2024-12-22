@@ -54,7 +54,7 @@
 
 ###
 
-<img align="right" height="150" src="https://imgur.com/MPOnwYC.gif"  />
+<img align="center" height="150" src="https://imgur.com/MPOnwYC.gif"  />
 
 ###
 
