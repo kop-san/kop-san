@@ -6,11 +6,11 @@
 
 ###
 
-<p align="left">- Currently messing around with Mobile App Development.</p>
+<p align="left">- Currently messing around with <b>Mobile App Development.</b></p>
 
 ###
 
-<p align="left">- Currently learning Flutter, Dart</p>
+<p align="left">- Currently learning <b>Flutter, Dart</b></p>
 
 ###
 
