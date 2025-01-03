@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- Currently learning <b>Flutter, Dart</b></p>
+<p align="left">- Learning <b>Flutter, Dart</b></p>
 
 ###
 
