@@ -14,7 +14,7 @@
 
 ###
 
-<h4 align="left">Software & Tools:</h4>
+<h4 align="left">Programming Languages & Tools:</h4>
 
 ###
 
